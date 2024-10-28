@@ -6,6 +6,8 @@ https://github.com/sriram842/23CSBTB27/blob/main/Untitled8.ipynb
 https://github.com/sriram842/23CSBTB27/blob/main/Assigement5.ipynb
 https://github.com/sriram842/23CSBTB27/blob/main/Untitled5.ipynb
 https://github.com/sriram842/23CSBTB27/blob/main/Assignment6.ipynb
+https://github.com/sriram842/23CSBTB27/blob/main/Assignment8.ipynb
+
 
 
 
